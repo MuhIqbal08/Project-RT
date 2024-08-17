@@ -16,7 +16,7 @@ const Pengurus = () => {
           K
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Ketua RT</h3>
-        <h4 className="text-base font-semibold text-gray-800">Nur Fajar Dwi Raharjo</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Nur Fajar Dwi Raharjo</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -30,7 +30,7 @@ const Pengurus = () => {
           WK
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Wakil Ketua</h3>
-        <h4 className="text-base font-semibold text-gray-800">I Wayan Suwastika</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">I Wayan Suwastika</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -44,7 +44,7 @@ const Pengurus = () => {
           S
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Sekretaris</h3>
-        <h4 className="text-base font-semibold text-gray-800">Novrizal Kurniawan</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Novrizal Kurniawan</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -58,7 +58,7 @@ const Pengurus = () => {
           B1
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Bendahara 1</h3>
-        <h4 className="text-base font-semibold text-gray-800">Aldi</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Aldi</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -72,7 +72,7 @@ const Pengurus = () => {
           B2
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Bendahara 2</h3>
-        <h4 className="text-base font-semibold text-gray-800">Teguh Herianto</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Teguh Herianto</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -86,7 +86,7 @@ const Pengurus = () => {
           SK
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Keamanan</h3>
-        <h4 className="text-base font-semibold text-gray-800">Isman</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Isman</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -100,7 +100,7 @@ const Pengurus = () => {
           SPI
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Rohani Islam</h3>
-        <h4 className="text-base font-semibold text-gray-800">Pipin Supriatna</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Pipin Supriatna</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -113,7 +113,7 @@ const Pengurus = () => {
           SPI
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Rohani Islam</h3>
-        <h4 className="text-base font-semibold text-gray-800">Syofyan</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Syofyan</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -127,7 +127,7 @@ const Pengurus = () => {
           SPO
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Pemuda dan Olahraga</h3>
-        <h4 className="text-base font-semibold text-gray-800">Teguh Herianto</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Teguh Herianto</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -140,7 +140,7 @@ const Pengurus = () => {
           SPO
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Pemuda dan Olahraga</h3>
-        <h4 className="text-base font-semibold text-gray-800">Pondra Sadewa</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Pondra Sadewa</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -154,7 +154,7 @@ const Pengurus = () => {
           SAK
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Arisan dan Kesra</h3>
-        <h4 className="text-base font-semibold text-gray-800">Cucu</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Cucu</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -168,7 +168,7 @@ const Pengurus = () => {
           SSP
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Saranan dan Prasana</h3>
-        <h4 className="text-base font-semibold text-gray-800">Roni</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Roni</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -181,7 +181,7 @@ const Pengurus = () => {
           SSP
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Sarana dan Prasarana</h3>
-        <h4 className="text-base font-semibold text-gray-800">Wijanarko</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Wijanarko</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -195,7 +195,7 @@ const Pengurus = () => {
           SH
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Humas</h3>
-        <h4 className="text-base font-semibold text-gray-800">Dedi Supriadi</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Dedi Supriadi</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -207,7 +207,7 @@ const Pengurus = () => {
           SH
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Humas</h3>
-        <h4 className="text-base font-semibold text-gray-800">Suheriansyah</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Suheriansyah</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -219,7 +219,7 @@ const Pengurus = () => {
           SH
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Humas</h3>
-        <h4 className="text-base font-semibold text-gray-800">Mahmudin</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Mahmudin</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
@@ -231,7 +231,7 @@ const Pengurus = () => {
           SH
         </div>
         <h3 className="text-lg font-bold text-gray-800 text-center">Seksi Humas</h3>
-        <h4 className="text-base font-semibold text-gray-800">Suparman</h4>
+        <h4 className="text-base font-semibold text-gray-800 text-center">Suparman</h4>
         <div className="flex gap-2 mt-1">
             <a href="#" className="text-blue-600 icon"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-pink-500 icon"><i className="fab fa-instagram"></i></a>
