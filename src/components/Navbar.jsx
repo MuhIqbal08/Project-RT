@@ -103,10 +103,10 @@ const Navbar = () => {
             </li>
             <li>
               <Link
-                href="#"
+                to={'/pengurus'}
                 className="block text-sm px-2 py-4 hover:bg-blue-500 transition duration-300"
               >
-                About
+                Pengurus
               </Link>
             </li>
             <li>
